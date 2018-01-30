@@ -1,0 +1,22 @@
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\bin\Debug\Remeber Excel.exe.config
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\bin\Debug\Remeber Excel.exe
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\bin\Debug\Remeber Excel.pdb
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\obj\Debug\Remeber Excel.csprojResolveAssemblyReference.cache
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\obj\Debug\MainWindow.g.cs
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\obj\Debug\App.g.cs
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\obj\Debug\Remeber Excel_MarkupCompile.cache
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\obj\Debug\Remeber Excel_MarkupCompile.lref
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\obj\Debug\MainWindow.baml
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\obj\Debug\Remeber Excel.g.resources
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\obj\Debug\Remeber_Excel.Properties.Resources.resources
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\obj\Debug\Remeber Excel.csproj.GenerateResource.Cache
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\obj\Debug\Remeber Excel.csproj.CoreCompileInputs.cache
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\obj\Debug\Remeber Excel.exe
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\obj\Debug\Remeber Excel.pdb
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\obj\Debug\Remeber Excel.csproj.ResolveComReference.cache
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\bin\Debug\EPPlus.dll
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\bin\Debug\System.IO.Packaging.dll
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\bin\Debug\EPPlus.xml
+C:\Users\A423102\source\repos\Remeber Excel\Remeber Excel\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
